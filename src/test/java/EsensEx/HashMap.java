@@ -11,7 +11,7 @@ public class HashMap {
         //key is eniyzov, value is - Cybertek
         //put
         passwords.put("eniyazov", "Cybertek");
-        passwords.put("Aruuke", "Cyber2");
+        passwords.put("erica", "Cyber2");
         System.out.println(passwords.get("eniyazov"));
 
         //get
